@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">On The Go</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAvtUwXWf8ZMGYjN0H_BFXIYWHoTkje6Nc</string>
+    <string name="otg">On The Go</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_weight">Your Weight</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="kg">kg</string>
+    <string name="total_calories_burned">Total Calories Burned</string>
+    <string name="total_time">Total Time</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="let_s_go_username">Let\'s go, USERNAME!</string>
+</resources>
